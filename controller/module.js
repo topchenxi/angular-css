@@ -1,0 +1,1 @@
+define(['angular'], ng => ng.module('webapp.Ctrl', []));
